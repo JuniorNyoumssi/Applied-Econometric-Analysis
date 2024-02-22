@@ -10,3 +10,6 @@ to my processes, results and conclusions.
 
 The research papers i used will be listed in the power point 
 presentation.
+
+Attachhed to the repository we have the STATA CODE I generated 
+and my entire report on the subject
