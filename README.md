@@ -1,5 +1,6 @@
 # Applied-Econometric-Analysis
-In this repository we will make use of Stata statistical software to carry an  econometric analysis
+In this repository we will make use of Stata statistical software to carry out   
+applied econometric analysis.
 
 We will analyse the impact of national income on Life expectancy using Stata. Applying 
 the fundamentals of applied econometrics to our research to reach reliable and 
